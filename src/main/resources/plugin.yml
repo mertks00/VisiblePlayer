@@ -1,0 +1,12 @@
+author: mertks00<3oz<3trossty
+website: https://www.youtube.com/channel/UCsvLJq1UR8MfKuqbYuyvZtw
+name: VisiblePlayer
+version: '${project.version}'
+main: net.oyuncozucu.visibleplayer.VisiblePlayer
+api-version: 1.16
+commands:
+  visible:
+  reload:
+
+
+
